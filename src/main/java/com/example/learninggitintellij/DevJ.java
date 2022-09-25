@@ -5,5 +5,6 @@ public class DevJ {
         System.out.println("Hello World");
 
         // Pratheush > MonuDevJP ::: requesting add changes >> add SOP : springframework springboot
+        System.out.println("MonuDevJP spring application 5678");
     }
 }
